@@ -3,7 +3,6 @@
 🎓 AIML student at Acharya Institues<br/>
 💻 Learning Python, ML/DL frameworks, and Data Science basics<br/>
 📂 Sharing my mini projects & experiments here on GitHub<br/>
-📫 Let’s connect on [LinkedIn](www.linkedin.com/in/nanda-kishor-555043296)
 
 
 ## 🌐 Socials:
